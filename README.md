@@ -5,16 +5,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Aadhi000/Auto-Request-Accept-Bot?style=social" />
-<img src="https://img.shields.io/github/forks/Aadhi000/Auto-Request-Accept-Bot?style=social" />
+<img src="https://img.shields.io/github/stars/Salman7977/Auto-Request-Accept-Bot?style=social" />
+<img src="https://img.shields.io/github/forks/Salman7977/Auto-Request-Accept-Bot?style=social" />
 </p>
 
 <b>𝙷𝙴𝙻𝙻𝙾...⚡</b>
-
-<p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
-  </p>
 
 <p align="center">
 <a href="https://telegram.dog/Salman7977"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
