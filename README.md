@@ -1,8 +1,6 @@
 ## 𝗔𝘂𝘁𝗼-Request-𝗔ccept-𝗕𝗼𝘁
 
 <p align="center">
-<a href="https://youtu.be/dAXspAB-xQU"><img src="https://telegra.ph/file/8f810bba085b31e4a6c96.jpg" /></a>
-</p>
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/Salman7977/Auto-Request-Accept-Bot?style=social" />
