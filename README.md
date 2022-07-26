@@ -28,5 +28,4 @@
 <b>`APPROVED_WELCOME`</b> : **On Or Off Approved Welcome Text**
 
 <b>`APPROVED_WELCOME_TEXT`</b> : **Approved Welcome Text**
-### Developer
 - [AutoApprove Bot by The Boss](https://github.com/Salman7977/Auto-Approved-Bot)
