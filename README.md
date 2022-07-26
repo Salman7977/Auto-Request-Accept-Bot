@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/github/forks/Salman7977/Auto-Request-Accept-Bot?style=social" />
 </p>
 
-<b>𝙷𝙴𝙻𝙻𝙾...⚡</b>
-
 <p align="center">
 <a href="https://telegram.dog/Salman7977"><img alt="Telegram"
 
@@ -31,5 +29,4 @@
 
 <b>`APPROVED_WELCOME_TEXT`</b> : **Approved Welcome Text**
 ### Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
-## [Share Support And Subscribe](https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA)
+- [AutoApprove Bot by The Boss](https://github.com/Salman7977/Auto-Approved-Bot)
