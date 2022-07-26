@@ -12,8 +12,7 @@
 <b>𝙷𝙴𝙻𝙻𝙾...⚡</b>
 
 <p align="center">
-<a href="https://telegram.dog/Salman7977"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
-</p>
+<a href="https://telegram.dog/Salman7977"><img alt="Telegram"
 
 ### Heruko Deploy
 <a href="https://heroku.com/deploy?template=https://github.com/Salman7977/Auto-Request-Accept-Bot">
